@@ -38,7 +38,3 @@ No build step or dependencies required.
 1. Open `index.html` in your web browser.
 2. Click the hamburger icon in the top-left corner to trigger the animated fullscreen menu overlay.
 3. Click the "X" button to collapse the overlay back into the corner.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
