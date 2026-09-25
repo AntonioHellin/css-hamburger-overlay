@@ -24,8 +24,8 @@ No build step or dependencies required.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AntonioHellin/hamburger_overlay_menu.git
-   cd hamburger_overlay_menu
+   git clone https://github.com/AntonioHellin/css-hamburger-overlay.git
+   cd css-hamburger-overlay
    ```
 
 2. Serve locally:
